@@ -1,0 +1,17 @@
+.a { border: solid; width:50% ;height: 50%;background-color: aliceblue; }
+.a #a1 ,.b #b1 { background-color: rgba(238, 224, 30, 0.389);}
+   #b2, #a2{ background-color: rgba(40, 238, 30, 0.382);}
+  .a #ap, #ah ,.b #bp, #bh ,.c #cp,#ch  {margin: 10px 10px 10px 10px;  }
+
+
+
+
+
+.b {border: dotted;width:50% ;height: 50%;background-color: aliceblue; }
+.b #bp{ border: dotted red;}
+
+
+
+.c{ border:groove ;width:50% ;height: 50%;background-color: aliceblue;} 
+.c { color: blueviolet;}
+
